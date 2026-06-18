@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+reports/*.pdf
+
+data/raw/*.xlsx
+data/raw/*.xls
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
